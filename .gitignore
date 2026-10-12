@@ -1,0 +1,4 @@
+content-brief.md
+*.tar.gz
+.preview/
+.DS_Store
